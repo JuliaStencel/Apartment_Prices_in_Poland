@@ -8,7 +8,8 @@ This GitHub repository focuses on analyzing apartment rental prices in Poland. T
 2.  🌲 Random Forest model for predicting prices of apartments for rent in Poland
 3.  🗺️ An interactive map in Tableau with apartment prices in Warsaw
 
-### Repository Structure:
+
+#### Repository Structure:
 
 ```
 .
@@ -28,8 +29,10 @@ This GitHub repository focuses on analyzing apartment rental prices in Poland. T
 
 ```
 
-### Data Source:
+
+#### Data Source:
 [Apartment Prices in Poland - Kaggle](https://www.kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland)
+
 
 ## Project 1: Exploratory Data Analysis (EDA) - Warsaw Apartment Prices 📊
 
@@ -53,6 +56,7 @@ This project involves exploratory data analysis of apartment rental prices in Wa
 5.  🗺️ Interactive Map
 
 
+
 ## Project 2: Predictive Modeling - Apartment Rental Price Prediction 🌲
 
 This project involves building a predictive model using a Random Forest Regressor to estimate apartment rental prices across Poland.
@@ -71,6 +75,7 @@ This project involves building a predictive model using a Random Forest Regresso
 2.  🧹 Data Cleaning
 3.  🤖 Machine Learning Model - Random Forest Regressor
 4.  📊 Model Evaluation
+
 
 
 ## Project 3: Interactive Tableau Map - Warsaw Apartment Prices 🗺️
