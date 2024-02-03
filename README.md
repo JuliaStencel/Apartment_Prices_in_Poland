@@ -46,6 +46,7 @@ This project involves exploratory data analysis of apartment rental prices in Wa
 -   numpy for numerical operations
 -   missingno for visualizing missing data patterns
 -   folium for interactive map creation
+-   pathlib for maintain and create file paths
 
 ### Project Steps:
 
@@ -68,6 +69,7 @@ This project involves building a predictive model using a Random Forest Regresso
 -   pandas, seaborn, and matplotlib for data manipulation and visualization
 -   scikit-learn for machine learning
 -   numpy for numerical operations
+-   pathlib for maintain and create file paths
 
 ### Project Steps:
 
