@@ -9,20 +9,20 @@ This GitHub repository focuses on analyzing apartment rental prices in Poland. T
 3. An interactive map in Tableau with apartment prices in Warsaw
 
 ## Repository Structure:
-.
-├── data
-│   ├── raw
-│   │   ├── apartments_rent_pl_2023_12.csv
-│   │   ├── apartments_rent_pl_2024_01.csv
-│   │   └── apartments_rent_pl_2023_11.csv
-│   └── processed
-│       ├── Poland_rent_cleaned.csv
-│       └── Warsaw_rent_cleaned.csv
-├── notebooks
-│   ├── Project2_Random Forest - predicting apartment prices.ipynb
-│   └── Project1_Apartments for rent in Warsaw EDA.ipynb
-└── tableau-visualizations
-    └── Project3_Apartment Rental Prices in Warsaw Map.twbx
+.  
+├── data  
+│   ├── raw  
+│   │   ├── apartments_rent_pl_2023_12.csv  
+│   │   ├── apartments_rent_pl_2024_01.csv  
+│   │   └── apartments_rent_pl_2023_11.csv  
+│   └── processed  
+│       ├── Poland_rent_cleaned.csv  
+│       └── Warsaw_rent_cleaned.csv  
+├── notebooks  
+│   ├── Project2_Random Forest - predicting apartment prices.ipynb  
+│   └── Project1_Apartments for rent in Warsaw EDA.ipynb  
+└── tableau-visualizations  
+    └── Project3_Apartment Rental Prices in Warsaw Map.twbx  
 
 ## Data Source:
 
